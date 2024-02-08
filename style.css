@@ -3,3 +3,63 @@ Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+
+.heading{
+  background-color:#FFDBAA;
+}
+
+#pr{
+  color: #553100;
+  margin: 0px;
+  padding-right: 150px;
+  display: inline-block
+}
+
+.head{
+  margin: 0 15px;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #805215;
+  color: white;
+  font-weight: bold;
+  width: 100px;
+  height: 50px
+}
+
+.body{
+  background-color: #D4A76A;
+}
+
+.mdsq{
+  /* display: inline-block; */
+}
+
+.sqtit{
+  text-align: center;
+}
+
+.sqtxt{
+  text-align: center;
+}
+
+.botbut{
+  width: 190px;
+  height: 50px;
+  color: white;
+  background-color: #805215;
+  margin-left: 80px;
+}
+
+.square{
+  background-color: white;
+  width: 350px;
+  height: 200px;
+  box-shadow: 10px 10px black;
+  display: inline-block;
+  margin: 0px 20px;
+}
+
+main {
+  display: flex;
+  padding: 20px;
+}
